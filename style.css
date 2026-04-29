@@ -1,0 +1,28 @@
+body{
+    background-color: blue;
+    text-align: center;
+}
+
+p{
+  text-align: left;
+}
+
+h3{
+    color: blueviolet;
+    color: rgb(0, 255, 94);
+}
+
+img{ 
+    width: 220px;
+    height: 220px;
+}
+
+ li{
+    transition: 0 3s;
+ } 
+ 
+ li:hover{
+color: black;
+font-size: 30px;
+ }
+ 
